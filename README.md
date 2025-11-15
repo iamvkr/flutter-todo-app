@@ -6,7 +6,7 @@ A simple and clean Todo list application built with Flutter. This project demons
 
 [▶️ Watch the demo video](/download/preview.mp4)
 
-<img src="./download/5755251.jpg" width="100%" style="max-width:400px;">
+<img src="./download/5755251.jpg" width="400">
 
 
 ### Download:
